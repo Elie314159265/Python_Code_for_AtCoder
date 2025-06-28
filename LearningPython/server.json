@@ -1,0 +1,9 @@
+{
+    "hostname": "web01",
+    "ip": "192.168.1.10",
+    "os": {
+        "name": "Ubuntu",
+        "version": "22.04"
+    },
+    "services": ["nginx", "mysql", "ssh"]
+}
