@@ -16,4 +16,5 @@
 - テストケースを用いた検証
 
 # LICENSE
-このリポジトリはMIT Licenseで保護されています
+The source code is licensed MIT. This content is licensed CC BY 4.0,see LICENSE.
+このソースコードはMIT License及びCC Licenseで保護されています
