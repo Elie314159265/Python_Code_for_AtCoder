@@ -18,3 +18,4 @@
 # LICENSE
 The source code is licensed MIT. This content is licensed CC BY 4.0,see LICENSE.
 このソースコードはMIT License及びCC Licenseで保護されています
+https://github.com/Elie314159265/Python_Code_for_AtCoder/blob/main/LICENSE
