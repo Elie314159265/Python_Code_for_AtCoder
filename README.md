@@ -1,5 +1,5 @@
 # Atcoder Problem Solutions & Python Algorithms collection
-このリポジトリはPythonでのAtcoderの問題解答集及びPythonのアルゴリズム集である
+このリポジトリはPythonでのAtcoderの問題解答集及びPythonのアルゴリズム集です
 ## 概要
 主に以下のアルゴリズムを学習目的で実装しています。
 
